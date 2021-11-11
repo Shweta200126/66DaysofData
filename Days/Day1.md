@@ -15,7 +15,7 @@ So many introductions right? Yeah, but they were pretty fun to learn from surpri
 
 Today I resumed Statistics course in Data Science/ Analyst career track, wel'll see which one I finish. 
 
-Completed on Day 1:
+Completed on ```Day 1```:
 1. Descriptive Statistics Fundamentals
 2. Inferential Statistics Fundamentals
 
