@@ -6,4 +6,4 @@ I had a great Day 5, hopefully all coming days will be cool too :) :confetti_bal
 <p>
 Bye :wave
 <p>
-Thank you for reading!
+Thank you for reading!:tada:
