@@ -1,4 +1,4 @@
-Hello to Day 3 🌞
+Hello to ```Day 3``` 🌞
 <br><br>
 I didn't do much of statistics today, my classes resumed as well 😢 after long festival holidays. Health got better though, sun was shining.
 <br><br>
